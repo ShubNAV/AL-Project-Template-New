@@ -1,0 +1,47 @@
+{
+  "id": "421c890d-24f8-415f-a44a-a21c41b6f206",
+  "name": "AL Project Template",
+  "publisher": "Shubham",
+  "version": "1.0.0.0",
+  "target": "Cloud",
+  "brief": "For Internal Development",
+  "description": "For Internal Development / Testing of the functionality in business central",
+
+  "help": "https://github.com/Shubline/ShubNAV",
+  "url": "https://github.com/Shubline/ShubNAV",
+  "logo": "Logo/logo.png",
+  "source": {
+    "repositoryUrl": "https://github.com/Shubline/ShubNAV"
+  },
+  "preprocessorSymbols": [
+    "IS_DEVELOPMENT"
+  ],
+  "resourceFolders": [
+    "Print Reports",
+    "Logo"
+  ],
+  "build": {},
+  "dependencies": [
+    
+  ],
+  "screenshots": [],
+  "application": "25.2.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": true
+  },
+  "propagateDependencies": true,
+  "platform": "15.0.0.0",
+  "runtime": "14.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

@@ -1,0 +1,8 @@
+// It is only allowed to have a migration file, with target 'OnPrem'
+// {
+//     "apprules": [
+//         {
+//             "id": "" // APP ID
+//         }
+//     ]
+// }
